@@ -1,5 +1,8 @@
+.body {
+  background-color: #2cdfd3;
+}
 .filters {
-  background: white;
+  background: rgb(221, 121, 121);
   width: 100%;
 }
 .filters li {
